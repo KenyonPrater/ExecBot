@@ -1,7 +1,7 @@
 # ExecBot
 ### Arbitrary code execution for fun
 
-listen I cannot emphisize enough how much you should not run this telegram bot. There is 
+listen I cannot emphasize enough how much you should not run this telegram bot. There is 
 nothing stopping somebody from happening across your bot's account while it's running and
 doing anything to your laptop and any files on it. 
 
